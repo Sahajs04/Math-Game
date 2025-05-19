@@ -1,0 +1,14 @@
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/obj/Debug/net8.0/Math-Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/obj/Debug/net8.0/Math-Game.AssemblyInfoInputs.cache
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/obj/Debug/net8.0/Math-Game.AssemblyInfo.cs
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/obj/Debug/net8.0/Math-Game.csproj.CoreCompileInputs.cache
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/bin/Debug/net8.0/Math-Game
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/bin/Debug/net8.0/Math-Game.deps.json
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/bin/Debug/net8.0/Math-Game.runtimeconfig.json
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/bin/Debug/net8.0/Math-Game.dll
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/bin/Debug/net8.0/Math-Game.pdb
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/obj/Debug/net8.0/Math-Game.dll
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/obj/Debug/net8.0/refint/Math-Game.dll
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/obj/Debug/net8.0/Math-Game.pdb
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/obj/Debug/net8.0/Math-Game.genruntimeconfig.cache
+/Users/sahajsingh/Downloads/Math-Game/Math-Game/obj/Debug/net8.0/ref/Math-Game.dll
