@@ -25,7 +25,7 @@ class Game
 
         while (true)
         {
-            if (firstRandom % secondRandom != 0)
+            if (firstRandom % secondRandom != 0 || secondRandom == 1 || firstRandom == secondRandom)
             {
                 //minus 1 because arrays are 0 indexed  
                 firstRandom = rnd.Next(1, difRange[range - 1]);
@@ -45,7 +45,7 @@ class Game
             System.Console.Clear();
             System.Console.WriteLine("Solve the Following Math Problem");
             System.Console.WriteLine($"{firstRandom} {operations[op - 1]} {secondRandom}");
-            string userInput = System.Console.ReadLine();
+            string userInput = Console.ReadLine();
             int input;
             bool worked = int.TryParse(userInput, out input);
 

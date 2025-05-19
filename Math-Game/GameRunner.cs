@@ -72,6 +72,7 @@ class GameRunner
                     int[] numbers = gameList[i].getNumbers();
                     string op = gameList[i].getOperation();
                     System.Console.WriteLine($"Game {count}: {numbers[0]} {op} {numbers[1]}");
+                    count--;
                 }
 
                 System.Console.WriteLine("Type anything to Exit");
