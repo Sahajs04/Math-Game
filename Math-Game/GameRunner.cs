@@ -83,7 +83,7 @@ class GameRunner
             }
 
             //If user doesnt enter an Int then throw an exception.
-                bool opSuccess = int.TryParse(userInput, out operation);
+            bool opSuccess = int.TryParse(userInput, out operation);
             if (!(opSuccess))
             {
                 throw new Exception("Incorrect Input. Enter number for Selection");
@@ -121,9 +121,10 @@ class GameRunner
             stopWatch.Start();
             newGame.operation();
             stopWatch.Stop();
-
-
-
+            Console.Clear();
+            TimeSpan ts = stopWatch.Elapsed;
+            Console.WriteLine($"You Took {ts.Seconds} Seconds to Complete the Problem");
+            Thread.Sleep(1000);
         }
 
 
